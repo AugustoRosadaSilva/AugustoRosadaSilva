@@ -2,7 +2,7 @@
 
 **`Futuro Dev.`**
 
-Me Chamo Augusto Rosa, tenho 33 anos, natural de Santa Albertina interior de São Paulo, no momento estou cursando Analise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, sou apaixonado por tecnologia e estou buscando minha primeira oportunidade na area de desenvolvimento.
+Olá, eu sou o Augusto, tenho 33 anos, natural de Santa Albertina interior de São Paulo, no momento estou cursando Analise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, sou apaixonado por tecnologia e estou buscando minha primeira oportunidade na area de desenvolvimento.
 
 <p align="left">
     <a href="https://github.com/AugustoRosadaSilva?tab=repositories&sort=stargazers">
